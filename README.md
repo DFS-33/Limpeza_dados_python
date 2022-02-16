@@ -1,2 +1,2 @@
 # Limpeza_dados_python
-ETL (Limpeza de dados, transformação e carregamento) 
+Demonstração de limpeza e tratamentos de dados estruturados e semi estruturados, utilizando Python.
